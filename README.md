@@ -1,11 +1,11 @@
-#**SpeakTwin AI**
+#***SpeakTwin AI***
 ### AI-Powered Speech Analysis and Communication Improvement Platform
 
 SpeakTwin AI is an intelligent speech practice platform designed to help individuals improve their speaking and communication skills through audio analysis and AI-driven insights.
 
 The platform focuses on evaluating speech delivery, identifying areas for improvement, and helping users develop clearer, more confident communication.
 
-## Overview
+## **Overview**
 
 Effective communication is an essential skill in academic, professional, and personal environments. SpeakTwin AI aims to make speech improvement more accessible through technology-driven analysis and personalized feedback.
 
